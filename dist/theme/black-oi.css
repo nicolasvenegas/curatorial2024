@@ -285,7 +285,11 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal sup {
   vertical-align: super;
-  font-size: smaller;
+  font-size: 21px;
+  color: #f55b77;
+  font-weight: bold;
+  margin-left: 1px;
+  font-family: var(--r-main-font);
 }
 
 .reveal sub {
