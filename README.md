@@ -10,16 +10,16 @@
 
 					
 ### Lógica
-(software > 5 - 10 años)
-≠
+(software > 5 - 10 años)<br/>
+≠<br/>
 ### Física
 (hardware > 10 - 20 años)
 
 <hr/>
 
 ### Lógica <br/>
-(derivas lingüísticas > 30/100 - 10.000 años)
-≠
+(derivas lingüísticas > 30/100 - 10.000 años)<br/>
+≠<br/>
 ### Física <br/>
 (acidez > 1 - 4.000 años)
 
