@@ -105,9 +105,11 @@ _cursivas_
 ### Recomposición y Conciliación	
 recopilación y análisis de información que deviene en decisiones de aproximaciones **funcionales**, **materiales**, **psicológicas**, **ergonómicas**, **estructurales**, **económicas** y **formales**
 
+<hr/>
 
 ### La creatividad como _procedimientos de experimentación informada_, desde los materiales y los instrumentos
 
+<hr/>
 
 ### Previsualización
 Elaboración de dibujos, esquemas constructivos, maquetas y/o prototipos
@@ -128,8 +130,8 @@ Elaboración de dibujos, esquemas constructivos, maquetas y/o prototipos
 3. [Firefox](https://www.mozilla.org/es-CL/firefox/new/) para el contexto de visualización
 4. [Markdown Editor](https://jbt.github.io/markdown-editor/) para consolidación jerarquizada de contenidos
 5. bloc de notas (o cualquier editor de texto plano)
-6. [editor markdown](https://jbt.github.io/markdown-editor/)
-7. [google drive](https://drive.google.com)
+6. [Editor markdown](https://jbt.github.io/markdown-editor/)
+7. [Google Drive](https://drive.google.com)
 
 ## Notas y Bibliografía
 1. [The Digital Preservation Management Workshops](https://dpworkshop.org/dpm-eng/workshops/fiveday.html)
