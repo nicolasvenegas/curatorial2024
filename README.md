@@ -1,31 +1,15 @@
 # Editorialidad y Obsolescencia
-					diseño como táctica de corto plazo para problemas estratégicos de largo plazo<sup>1</sup> 
+diseño como táctica de corto plazo para problemas estratégicos de largo plazo<sup>1</sup> 
 
-					Note:
-					conversación sobre las actuales prácticas de uso de entornos digitales para la creación y edición de contenidos.
-					---
-					![estructura, contenido, contexto](img/estructura_contenido_contexto.png)
+![estructura, contenido, contexto](img/estructura_contenido_contexto.png)
 
-					---
-					## Estructura / Contenido / Contexto
-
-					Note:
-					. CONTENIDO cuanto sabemos de lo que encapsula, lo no visto que esta tras nuestro CONTENIDO? (codigo basura sin valor semantico en todos los softwares de edicion de cualquier tipo de contenido digital)
-					. ESTRUCTURA / ARQUITECTURA referida a formatos y codificación (abiertos o cerrados, difieren en el acceso a las especificaciones del software)
-					. CONTEXTO referido a entorno de lectura/escritura: softwares y dispositivos; periféricos
+## Estructura / Contenido / Contexto
 					
-					---
-					## Lógica <br/>
-					(software > 5 - 10 años)<br/> 
-					# ≠
-					## Física <br/>
-					(hardware > 10 - 20 años)
-
-					Note:
-					. CAPA LÓGICA relativa al lenguaje, los formatos, sus limitantes. las extensiones de archivos como marca visual.
-					. CAPA FÍSICA relativa a los soportes de almacenamiento.
-					. Empresas quiebran, son absrobidas por otras mas grandes. El caso de flash macromedia, la absorcion de macromedia por adobe, y el termino de flash como plataforma de creación de contenidos, como lenguaje (Action Script).
-					. La obsolescencia de la capa fisica tiene que ver mas con los contextos y las dinamicas de uso y preservacion, variables ambientales (humedad, temperatura) o industriales (reparación de piezas)
+## Lógica <br/>
+(software > 5 - 10 años)<br/> 
+# ≠
+## Física <br/>
+(hardware > 10 - 20 años)
 
 					---
 					## Lógica <br/>
