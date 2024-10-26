@@ -1,5 +1,5 @@
 # [ver online](https://nicolasvenegas.github.io/curatorial2024/)
-# [Obstrucciones](https://nicolasvenegas.github.io/curatorial2024/page-obstrucciones.html)
+# [criterios de diseño](https://nicolasvenegas.github.io/curatorial2024/page-obstrucciones.html)
 # [participantes](https://nicolasvenegas.github.io/curatorial2024/page-perfiles.html)
 
 # Editorialidad y Obsolescencia
