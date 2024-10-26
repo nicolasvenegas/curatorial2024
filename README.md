@@ -1,3 +1,5 @@
+# [ver online](https://nicolasvenegas.github.io/curatorial2024/)
+
 # Editorialidad y Obsolescencia
 diseño como táctica de corto plazo para problemas estratégicos de largo plazo<sup>1</sup> 
 
