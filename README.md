@@ -1,7 +1,7 @@
 # [ver online](https://nicolasvenegas.github.io/curatorial2024/)
 
 # Editorialidad y Obsolescencia
-diseño como táctica de corto plazo para problemas estratégicos de largo plazo<sup>1</sup> 
+## diseño como táctica de corto plazo para problemas estratégicos de largo plazo<sup>1</sup> 
 
 ![estructura, contenido, contexto](img/estructura_contenido_contexto.png)
 
@@ -15,7 +15,7 @@ diseño como táctica de corto plazo para problemas estratégicos de largo plazo
 ### Física
 (hardware > 10 - 20 años)
 
-
+<hr/>
 
 ### Lógica <br/>
 (derivas lingüísticas > 30/100 - 10.000 años)
@@ -23,15 +23,17 @@ diseño como táctica de corto plazo para problemas estratégicos de largo plazo
 ### Física <br/>
 (acidez > 1 - 4.000 años)
 
+<hr/>
 
 ![gráfico de medios análogos](img/grafico_mediosFisicos.png)
 
+<hr/>
 
 ### Domésticas privativas 
 ≠ 
 ### Estándares abiertos
 
-
+<hr/>
 
 ## ¿Qué impactos históricos sobre la preservación digital tendrán las domésticas documentales que hoy desplegamos? <sup>2</sup>
 
@@ -62,6 +64,10 @@ diseño como táctica de corto plazo para problemas estratégicos de largo plazo
 ```
 # titulo nivel 1
 ## titulo nivel 2
+### titulo nivel 3
+#### titulo nivel 4
+##### titulo nivel 5
+###### titulo nivel 6
 párrafos (solo hacer un salto de linea)
 **negritas**
 _cursivas_
@@ -74,18 +80,24 @@ _cursivas_
 ```
 
 ## Proyecto de Diseño
+
 ### Jerarquía 
 ≠ 
 ### Apariencia
+
+<hr/>
 
 ### Diseño
 ≠ 
 ### Lujo
 
+<hr/>
+
 ### Diseño
 ≠ 
 ### Decoración
 
+<hr/>
 
 ### Descomposición
 > _"No se trata solo del proyecto gráfico de la cubierta de un libro o de una colección de libros, sino también el del propio libro como objeto y, por tanto, del formato, el tipo de papel, el color de la tinta en relación con el color del papel, la encuadernación, la elección de la tipografía según el argumento del libro, la definición de la caja del texto en relación con la página, la colocación de la numeración de las páginas, los márgenes, el carácter visual de las ilustraciones o las fotografías que acompañan al texto, etc."_ <sup>3</sup>
