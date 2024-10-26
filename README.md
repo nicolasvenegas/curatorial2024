@@ -43,7 +43,7 @@
 ### BBC Domesday (1986)
 ![Domesday BBC](img/DomesdayBBC.jpg)
 
-### InMemory, Chris Marker (1997)
+### ImMemory, Chris Marker (1997)
 ![Chris marker Inmemory](img/chrismarker_inmemory.jpg)
 
 ## Posibilidades
@@ -140,6 +140,7 @@ Elaboración de dibujos, esquemas constructivos, maquetas y/o prototipos
 4. [Gestión de los documentos digitales: estrategias para su conservación, Jordi Serra](https://drive.google.com/file/d/1fJ1mgoI78fuAQBdhA1m7mdwTVWA1_Vi2/view?usp=sharing)
 5. [Apocalípticos e Integrados, Umberto Eco](https://drive.google.com/file/d/1O9QunwCSorQMS1rzUoMUSjhQ62nX3nzC/view?usp=sharing)
 
+<hr/>
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://nicolasvenegas.github.io/curatorial2024/" target="_blank">editorialidad y obsolescencia</a> <br/>bajo licencia <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</a></p> 
 					<a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://objetoimposible.cl" target="_blank">ObjetoImposible</a>
