@@ -4,40 +4,38 @@ diseño como táctica de corto plazo para problemas estratégicos de largo plazo
 ![estructura, contenido, contexto](img/estructura_contenido_contexto.png)
 
 ## Estructura / Contenido / Contexto
+
+<hr/>
 					
-## Lógica <br/>
-(software > 5 - 10 años)<br/> 
-# ≠
-## Física <br/>
+### Lógica
+(software > 5 - 10 años)
+≠
+### Física
 (hardware > 10 - 20 años)
 
-					---
-					## Lógica <br/>
-					(derivas lingüísticas > 30/100 - 10.000 años)<br/> 
-					# ≠
-					## Física <br/>
-					(acidez > 1 - 4.000 años)
+<hr/>
 
-					Note:
-					. la obsolescencia en términos prácticos:
-					. La actualización de un determinado software tiene como resultado que los archivos creados en versiones antiguas no son compatibles con la nueva versión.
-				 	. El software utilizado ha sido comprado por su competencia y eliminado del mercado.
-				 	. La estructura ha caído en desuso o ya no se desarrolla el software necesario para su utilización.
-				 	. La estructura no es compatible con el software utilizado en la actualidad, ni tampoco con versiones antiguas del mismo.
+### Lógica <br/>
+(derivas lingüísticas > 30/100 - 10.000 años)
+≠
+## Física <br/>
+(acidez > 1 - 4.000 años)
 
-					---
-					![gráfico de medios análogos](img/grafico_mediosFisicos.png)
-					---
-					## Domésticas privativas 
-					# ≠ 
-					## Estándares abiertos
-					---
-					## ¿Qué impactos históricos sobre la preservación digital tendrán las domésticas documentales que hoy desplegamos? <sup>2</sup>
+<hr/>
 
-					Note:
-					. ¿Qué ocurre realmente cuando una imagen es digitalizada? ¿Qué procedimientos estan ocurriendo? ¿como se transliteralizan loa realidad desde lo análogico a lo digital y viceversa?
-					---
-					### archive.org
+![gráfico de medios análogos](img/grafico_mediosFisicos.png)
+
+<hr/>
+
+### Domésticas privativas 
+≠ 
+### Estándares abiertos
+
+<hr/>
+
+## ¿Qué impactos históricos sobre la preservación digital tendrán las domésticas documentales que hoy desplegamos? <sup>2</sup>
+
+### archive.org
 					![Archive.org caido](img/archiveorg_caido.png)
 					
 					Note:
